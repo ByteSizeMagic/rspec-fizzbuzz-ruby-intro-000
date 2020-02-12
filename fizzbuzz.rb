@@ -2,7 +2,7 @@
 # See README.md for instructions on how to do this
 
 def fizzbuzz(int)
-  if int == 15
-    puts "FizzBuzz"
+  if int % 3 == 0
+    puts "Fizz"
   end
 end
