@@ -3,6 +3,6 @@
 
 def fizzbuzz(int)
   if int == 15
-    puts "fizzbuzz"
+    puts "FizzBuzz"
   end
 end
